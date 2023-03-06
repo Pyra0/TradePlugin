@@ -1,0 +1,7 @@
+name: TradePlugin
+version: '${project.version}'
+main: me.pyra0.tradeplugin.TradePlugin
+api-version: 1.19
+authors: [Pyra0]
+description: Trade plugin made for PaladinMC
+website: https://github.com/Pyra0
